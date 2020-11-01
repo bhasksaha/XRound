@@ -1,53 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11449" started-at="2020-10-06T17:44:36 IST" finished-at="2020-10-06T17:44:47 IST">
+  <suite name="Default suite" duration-ms="4417" started-at="2020-11-01T14:37:34 IST" finished-at="2020-11-01T14:37:38 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11449" started-at="2020-10-06T17:44:36 IST" finished-at="2020-10-06T17:44:47 IST">
-      <class name="Test1">
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="4035" started-at="2020-10-06T17:44:36 IST" finished-at="2020-10-06T17:44:40 IST">
+    <test name="Default test" duration-ms="4417" started-at="2020-11-01T14:37:34 IST" finished-at="2020-11-01T14:37:38 IST">
+      <class name="Test2">
+        <test-method status="PASS" signature="getRequestclient()[pri:0, instance:Test2@3712b94]" name="getRequestclient" duration-ms="4386" started-at="2020-11-01T14:37:34 IST" finished-at="2020-11-01T14:37:38 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="864" started-at="2020-10-06T17:44:40 IST" finished-at="2020-10-06T17:44:41 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="809" started-at="2020-10-06T17:44:41 IST" finished-at="2020-10-06T17:44:42 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="798" started-at="2020-10-06T17:44:42 IST" finished-at="2020-10-06T17:44:42 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="798" started-at="2020-10-06T17:44:42 IST" finished-at="2020-10-06T17:44:43 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="828" started-at="2020-10-06T17:44:43 IST" finished-at="2020-10-06T17:44:44 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="806" started-at="2020-10-06T17:44:44 IST" finished-at="2020-10-06T17:44:45 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="799" started-at="2020-10-06T17:44:45 IST" finished-at="2020-10-06T17:44:46 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="816" started-at="2020-10-06T17:44:46 IST" finished-at="2020-10-06T17:44:46 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-        <test-method status="PASS" signature="testngtest()[pri:0, instance:Test1@131276c2]" name="testngtest" duration-ms="828" started-at="2020-10-06T17:44:46 IST" finished-at="2020-10-06T17:44:47 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testngtest -->
-      </class> <!-- Test1 -->
+        </test-method> <!-- getRequestclient -->
+      </class> <!-- Test2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
